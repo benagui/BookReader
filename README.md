@@ -17,13 +17,15 @@ Welcome to : [seele.moe](http://seele.moe).
 </div>
 <br />
 
-#### Personal homepage;：
+#### Personal page;：
 <br />
 <div align=center>
 <img src="./images/4.png" width="32%" height="33%" />
 <img src="./images/5.png" width="32%" height="33%" />
 <img src="./images/6.png" width="32%" height="33%" />
+  
 <br />
+
 <img src="./images/7.png" width="32%" height="33%" />
 <img src="./images/8.png" width="32%" height="33%" />
 <img src="./images/9.png" width="32%" height="33%" />
